@@ -4,7 +4,7 @@ body{
 }
 .wrapper{
     height: 100vh;
-   /* background-color: antiquewhite;*/
+   /* background-color: ntiquewhite;*/
   /* background-color: #fff1e6;*/
    background-color: #efd3d7;
 
@@ -26,7 +26,7 @@ input[type="text"]{
     border-bottom: 1px solid #fff;
     width: 100%;display: block;
     padding-bottom: 4px;
-    color: #fff !important;
+    color: #eee !important;
     font-weight: lighter;
     letter-spacing: 2px;
     margin-bottom: 30px;
